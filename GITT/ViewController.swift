@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("develop branch changes made")
         print("hiiii")
+        let a = 10
+        print(a == 10)
     }
 
 
